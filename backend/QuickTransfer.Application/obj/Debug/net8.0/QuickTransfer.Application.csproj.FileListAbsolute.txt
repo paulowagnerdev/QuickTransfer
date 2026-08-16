@@ -1,0 +1,11 @@
+/home/paulowagner/Documentos/c#/QuickTransfer/QuickTransfer/QuickTransfer.Application/bin/Debug/net8.0/QuickTransfer.Application.deps.json
+/home/paulowagner/Documentos/c#/QuickTransfer/QuickTransfer/QuickTransfer.Application/bin/Debug/net8.0/QuickTransfer.Application.dll
+/home/paulowagner/Documentos/c#/QuickTransfer/QuickTransfer/QuickTransfer.Application/bin/Debug/net8.0/QuickTransfer.Application.pdb
+/home/paulowagner/Documentos/c#/QuickTransfer/QuickTransfer/QuickTransfer.Application/obj/Debug/net8.0/QuickTransfer.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/paulowagner/Documentos/c#/QuickTransfer/QuickTransfer/QuickTransfer.Application/obj/Debug/net8.0/QuickTransfer.Application.AssemblyInfoInputs.cache
+/home/paulowagner/Documentos/c#/QuickTransfer/QuickTransfer/QuickTransfer.Application/obj/Debug/net8.0/QuickTransfer.Application.AssemblyInfo.cs
+/home/paulowagner/Documentos/c#/QuickTransfer/QuickTransfer/QuickTransfer.Application/obj/Debug/net8.0/QuickTransfer.Application.csproj.CoreCompileInputs.cache
+/home/paulowagner/Documentos/c#/QuickTransfer/QuickTransfer/QuickTransfer.Application/obj/Debug/net8.0/QuickTransfer.Application.dll
+/home/paulowagner/Documentos/c#/QuickTransfer/QuickTransfer/QuickTransfer.Application/obj/Debug/net8.0/refint/QuickTransfer.Application.dll
+/home/paulowagner/Documentos/c#/QuickTransfer/QuickTransfer/QuickTransfer.Application/obj/Debug/net8.0/QuickTransfer.Application.pdb
+/home/paulowagner/Documentos/c#/QuickTransfer/QuickTransfer/QuickTransfer.Application/obj/Debug/net8.0/ref/QuickTransfer.Application.dll

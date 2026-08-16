@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickTransfer.Api", "QuickTransfer.Api\QuickTransfer.Api.csproj", "{02BB60BB-F66B-4B83-B5EB-BEDAB8A2E82C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickTransfer.Domain", "QuickTransfer.Domain\QuickTransfer.Domain.csproj", "{2C8764B7-967C-4679-9A13-A0228A9A188A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickTransfer.Application", "QuickTransfer.Application\QuickTransfer.Application.csproj", "{871F12DD-FB4D-4229-AE57-6B856AE09A9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickTransfer.Infrastructure", "QuickTransfer.Infrastructure\QuickTransfer.Infrastructure.csproj", "{09BE180E-7BCF-47F3-8080-535D75F99370}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02BB60BB-F66B-4B83-B5EB-BEDAB8A2E82C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02BB60BB-F66B-4B83-B5EB-BEDAB8A2E82C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02BB60BB-F66B-4B83-B5EB-BEDAB8A2E82C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02BB60BB-F66B-4B83-B5EB-BEDAB8A2E82C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C8764B7-967C-4679-9A13-A0228A9A188A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C8764B7-967C-4679-9A13-A0228A9A188A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C8764B7-967C-4679-9A13-A0228A9A188A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C8764B7-967C-4679-9A13-A0228A9A188A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{871F12DD-FB4D-4229-AE57-6B856AE09A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{871F12DD-FB4D-4229-AE57-6B856AE09A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{871F12DD-FB4D-4229-AE57-6B856AE09A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{871F12DD-FB4D-4229-AE57-6B856AE09A9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09BE180E-7BCF-47F3-8080-535D75F99370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09BE180E-7BCF-47F3-8080-535D75F99370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09BE180E-7BCF-47F3-8080-535D75F99370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09BE180E-7BCF-47F3-8080-535D75F99370}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
