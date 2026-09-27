@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/paulowagner/Documentos/c#/QuickTransfer/QuickTransfer/QuickTransfer.Infrastructure/QuickTransfer.Infrastructure.csproj": {}
+    "/home/paulowagner/Documentos/c#/QuickTransfer/backend/QuickTransfer.Infrastructure/QuickTransfer.Infrastructure.csproj": {}
   },
   "projects": {
-    "/home/paulowagner/Documentos/c#/QuickTransfer/QuickTransfer/QuickTransfer.Domain/QuickTransfer.Domain.csproj": {
+    "/home/paulowagner/Documentos/c#/QuickTransfer/backend/QuickTransfer.Domain/QuickTransfer.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/paulowagner/Documentos/c#/QuickTransfer/QuickTransfer/QuickTransfer.Domain/QuickTransfer.Domain.csproj",
+        "projectUniqueName": "/home/paulowagner/Documentos/c#/QuickTransfer/backend/QuickTransfer.Domain/QuickTransfer.Domain.csproj",
         "projectName": "QuickTransfer.Domain",
-        "projectPath": "/home/paulowagner/Documentos/c#/QuickTransfer/QuickTransfer/QuickTransfer.Domain/QuickTransfer.Domain.csproj",
+        "projectPath": "/home/paulowagner/Documentos/c#/QuickTransfer/backend/QuickTransfer.Domain/QuickTransfer.Domain.csproj",
         "packagesPath": "/home/paulowagner/.nuget/packages/",
-        "outputPath": "/home/paulowagner/Documentos/c#/QuickTransfer/QuickTransfer/QuickTransfer.Domain/obj/",
+        "outputPath": "/home/paulowagner/Documentos/c#/QuickTransfer/backend/QuickTransfer.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/paulowagner/.nuget/NuGet/NuGet.Config"
@@ -74,14 +74,14 @@
         }
       }
     },
-    "/home/paulowagner/Documentos/c#/QuickTransfer/QuickTransfer/QuickTransfer.Infrastructure/QuickTransfer.Infrastructure.csproj": {
+    "/home/paulowagner/Documentos/c#/QuickTransfer/backend/QuickTransfer.Infrastructure/QuickTransfer.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/paulowagner/Documentos/c#/QuickTransfer/QuickTransfer/QuickTransfer.Infrastructure/QuickTransfer.Infrastructure.csproj",
+        "projectUniqueName": "/home/paulowagner/Documentos/c#/QuickTransfer/backend/QuickTransfer.Infrastructure/QuickTransfer.Infrastructure.csproj",
         "projectName": "QuickTransfer.Infrastructure",
-        "projectPath": "/home/paulowagner/Documentos/c#/QuickTransfer/QuickTransfer/QuickTransfer.Infrastructure/QuickTransfer.Infrastructure.csproj",
+        "projectPath": "/home/paulowagner/Documentos/c#/QuickTransfer/backend/QuickTransfer.Infrastructure/QuickTransfer.Infrastructure.csproj",
         "packagesPath": "/home/paulowagner/.nuget/packages/",
-        "outputPath": "/home/paulowagner/Documentos/c#/QuickTransfer/QuickTransfer/QuickTransfer.Infrastructure/obj/",
+        "outputPath": "/home/paulowagner/Documentos/c#/QuickTransfer/backend/QuickTransfer.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/paulowagner/.nuget/NuGet/NuGet.Config"
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/paulowagner/Documentos/c#/QuickTransfer/QuickTransfer/QuickTransfer.Domain/QuickTransfer.Domain.csproj": {
-                "projectPath": "/home/paulowagner/Documentos/c#/QuickTransfer/QuickTransfer/QuickTransfer.Domain/QuickTransfer.Domain.csproj"
+              "/home/paulowagner/Documentos/c#/QuickTransfer/backend/QuickTransfer.Domain/QuickTransfer.Domain.csproj": {
+                "projectPath": "/home/paulowagner/Documentos/c#/QuickTransfer/backend/QuickTransfer.Domain/QuickTransfer.Domain.csproj"
               }
             }
           }

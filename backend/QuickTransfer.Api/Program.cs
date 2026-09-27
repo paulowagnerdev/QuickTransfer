@@ -13,8 +13,8 @@ var connectionString = builder.Configuration
 
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseNpgsql(connectionString));
-
-builder.Services.AddScoped<ISessionService, ServiceSession>();
+builder.Services.AddHostedService<SessionCleanupService>();
+builder.Services.AddScoped<ISessionService, SessionService>();
 
 var app = builder.Build();
 

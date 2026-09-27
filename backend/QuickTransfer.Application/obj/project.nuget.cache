@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ISpJylsssXg=",
+  "dgSpecHash": "9Xzwbme0MGY=",
   "success": true,
-  "projectFilePath": "/home/paulowagner/Documentos/c#/QuickTransfer/QuickTransfer/QuickTransfer.Application/QuickTransfer.Application.csproj",
+  "projectFilePath": "/home/paulowagner/Documentos/c#/QuickTransfer/backend/QuickTransfer.Application/QuickTransfer.Application.csproj",
   "expectedPackageFiles": [
     "/home/paulowagner/.nuget/packages/microsoft.entityframeworkcore/8.0.18/microsoft.entityframeworkcore.8.0.18.nupkg.sha512",
     "/home/paulowagner/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.18/microsoft.entityframeworkcore.abstractions.8.0.18.nupkg.sha512",

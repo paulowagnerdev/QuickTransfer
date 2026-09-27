@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "STE0oBMMVc8=",
+  "dgSpecHash": "+dNimmix+P4=",
   "success": true,
-  "projectFilePath": "/home/paulowagner/Documentos/c#/QuickTransfer/QuickTransfer/QuickTransfer.Infrastructure/QuickTransfer.Infrastructure.csproj",
+  "projectFilePath": "/home/paulowagner/Documentos/c#/QuickTransfer/backend/QuickTransfer.Infrastructure/QuickTransfer.Infrastructure.csproj",
   "expectedPackageFiles": [
     "/home/paulowagner/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/paulowagner/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

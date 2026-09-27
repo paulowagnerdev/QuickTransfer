@@ -12,8 +12,8 @@ using QuickTransfer.Infrastructure.Data;
 namespace QuickTransfer.Infrastructure.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20260816005231_InitialCreate")]
-    partial class InitialCreate
+    [Migration("20260927194721_AddSessionPublicId")]
+    partial class AddSessionPublicId
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -67,6 +67,9 @@ namespace QuickTransfer.Infrastructure.Migrations
 
                     b.Property<DateTime>("ExpiresAt")
                         .HasColumnType("timestamp with time zone");
+
+                    b.Property<Guid>("PublicId")
+                        .HasColumnType("uuid");
 
                     b.Property<string>("Token")
                         .IsRequired()

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "StAqpwPdRQw=",
+  "dgSpecHash": "trPuLjQvBfA=",
   "success": true,
-  "projectFilePath": "/home/paulowagner/Documentos/c#/QuickTransfer/QuickTransfer/QuickTransfer.Domain/QuickTransfer.Domain.csproj",
+  "projectFilePath": "/home/paulowagner/Documentos/c#/QuickTransfer/backend/QuickTransfer.Domain/QuickTransfer.Domain.csproj",
   "expectedPackageFiles": [
     "/home/paulowagner/.nuget/packages/microsoft.netcore.app.ref/8.0.26/microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
     "/home/paulowagner/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.26/microsoft.aspnetcore.app.ref.8.0.26.nupkg.sha512"

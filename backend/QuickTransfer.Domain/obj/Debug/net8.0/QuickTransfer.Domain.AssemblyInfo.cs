@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuickTransfer.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1700ce035b2018afb4a63f17603c13737be121f")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuickTransfer.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuickTransfer.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

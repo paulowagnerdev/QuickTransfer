@@ -9,3 +9,15 @@
 /home/paulowagner/Documentos/c#/QuickTransfer/QuickTransfer/QuickTransfer.Domain/obj/Debug/net8.0/refint/QuickTransfer.Domain.dll
 /home/paulowagner/Documentos/c#/QuickTransfer/QuickTransfer/QuickTransfer.Domain/obj/Debug/net8.0/QuickTransfer.Domain.pdb
 /home/paulowagner/Documentos/c#/QuickTransfer/QuickTransfer/QuickTransfer.Domain/obj/Debug/net8.0/ref/QuickTransfer.Domain.dll
+/home/paulowagner/Documentos/c#/QuickTransfer/backend/QuickTransfer.Domain/bin/Debug/net8.0/QuickTransfer.Domain.deps.json
+/home/paulowagner/Documentos/c#/QuickTransfer/backend/QuickTransfer.Domain/bin/Debug/net8.0/QuickTransfer.Domain.dll
+/home/paulowagner/Documentos/c#/QuickTransfer/backend/QuickTransfer.Domain/bin/Debug/net8.0/QuickTransfer.Domain.pdb
+/home/paulowagner/Documentos/c#/QuickTransfer/backend/QuickTransfer.Domain/obj/Debug/net8.0/QuickTransfer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/paulowagner/Documentos/c#/QuickTransfer/backend/QuickTransfer.Domain/obj/Debug/net8.0/QuickTransfer.Domain.AssemblyInfoInputs.cache
+/home/paulowagner/Documentos/c#/QuickTransfer/backend/QuickTransfer.Domain/obj/Debug/net8.0/QuickTransfer.Domain.AssemblyInfo.cs
+/home/paulowagner/Documentos/c#/QuickTransfer/backend/QuickTransfer.Domain/obj/Debug/net8.0/QuickTransfer.Domain.csproj.CoreCompileInputs.cache
+/home/paulowagner/Documentos/c#/QuickTransfer/backend/QuickTransfer.Domain/obj/Debug/net8.0/QuickTransfer.Domain.sourcelink.json
+/home/paulowagner/Documentos/c#/QuickTransfer/backend/QuickTransfer.Domain/obj/Debug/net8.0/QuickTransfer.Domain.dll
+/home/paulowagner/Documentos/c#/QuickTransfer/backend/QuickTransfer.Domain/obj/Debug/net8.0/refint/QuickTransfer.Domain.dll
+/home/paulowagner/Documentos/c#/QuickTransfer/backend/QuickTransfer.Domain/obj/Debug/net8.0/QuickTransfer.Domain.pdb
+/home/paulowagner/Documentos/c#/QuickTransfer/backend/QuickTransfer.Domain/obj/Debug/net8.0/ref/QuickTransfer.Domain.dll

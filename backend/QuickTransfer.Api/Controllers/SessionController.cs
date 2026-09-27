@@ -15,16 +15,23 @@ public class SessionController : ControllerBase
     }
     
     [HttpPost]
-    public IActionResult CreateSession()
+    public async Task<IActionResult> CreateSession()
     {
-        var newSession = _serviceSession.CreateSession();
-        return Ok("Recebi a requisição");
+        var response = await _serviceSession.CreateSessionAsync();
+
+        if (!response.IsSuccess)
+        {
+            return BadRequest(response.Message);
+        }
+        
+        return Ok(response);
     }
     
     [HttpGet]
-    [Route("{Id}")]
-    public IActionResult GetSession()
+    [Route("{id:guid}")]
+    public async Task<IActionResult> GetSession([FromQuery] Guid id)
     {
+        var response = await _serviceSession.GetSessionAsync(id);
         return Ok("Get Session");
     }
 
